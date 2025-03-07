@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>广告联盟</title>
+</head>
+<body>
+    <div class="container">
+        <!-- 这里放置一个cpc。提示这里放置（固定banner) -->
+        <span>cpc(1)</span>
+        <span><script>
+    (function () {
+        var id = "7255774253627174051-13405";
+        document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+        (window.adbyunion = window.adbyunion || []).push(id);
+    })();
+</script>
+<script async src="https://js.ffff241201.cc/o.js"></script></span>
+
+        <!-- 这里放置同一个广告联盟的cpc。提示这里放置（固定banner) -->
+        <span>cpc(2)</span>
+        <span><script>
+    (function () {
+        var id = "7255774253627174051-13406";
+        document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+        (window.adbyunion = window.adbyunion || []).push(id);
+    })();
+</script>
+<script async src="https://js.ffff241201.cc/o.js"></script></span>
+    </div>
+
+    <!-- 以下都是放置cpv,提示这里要使用广告联盟底部漂浮广告，然后把（抖动动画关闭）！如果出现那种点击了出现新页面了的就直接关闭，重新创建一,右下角漂浮的广告代码 -->
+    <div class="css-container">
+        <span>cpv(1)</span>
+        <span>cpv(2)</span>
+        <span>cpv(3)</span>
+        <span>cpv(4)</span>
+        <span>cpv(5)</span>
+        <span>cpv(6)</span>
+        <span>cpv(7)</span>
+        <span>cpv(8)</span>
+        <span>cpv(9)</span>
+        <span>cpv(10)</span>
+    </div>
+</body>
+</html>
